@@ -7,7 +7,7 @@
     <body>
         
         <p>
-            Cette ligne a été écrite entièrement en HTML.<br />
+            Cette ligne a été écrite entièrement en HTML.<br>
         </p>
 
         <?php 

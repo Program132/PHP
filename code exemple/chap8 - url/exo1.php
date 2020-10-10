@@ -4,6 +4,6 @@
   <title>PHP : import file</title>
 </head>
 <body>
-  <?php include("phpimport.php"); ?>
+  <a href="file1.php?nom=Bey&amp;prenom=Entertainment">Dite bonjour</a>
 </body>
 </html>

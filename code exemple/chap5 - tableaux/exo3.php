@@ -11,7 +11,7 @@
       adresse => "Iconnu",
       nomAncien => "Bey Game",
       createBy => "beyptitloup");
-
+      
     echo $bey["nom"];
   ?>
 </body>

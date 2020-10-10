@@ -9,7 +9,7 @@
     
     for ($num = 0; $num < 5; $num++)
     {
-      echo $name[$num] . '<br />';
+      echo $name[$num] . '<br>';
     }
   ?>
 </body>

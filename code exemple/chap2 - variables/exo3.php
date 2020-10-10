@@ -8,7 +8,7 @@
 
         <?php
           $age = 17;
-          echo "L'utilisateur a " . $age . " ans"; // En php pour insérer dans un texte une variable on met un .
+          echo "L'utilisateur a " . $age . " ans.";
         ?>
     </body>
 </html>

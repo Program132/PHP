@@ -7,7 +7,7 @@
     <bod>
         <h1>Code PHP : <strong>echo</strong></h1>
        <?php
-       phpinfo();
+            phpinfo();
        ?> 
     </body>
 </html>
